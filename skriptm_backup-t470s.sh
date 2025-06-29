@@ -9,6 +9,7 @@ CONFIG=(
     "$HOME/.config/Thunar"
     "$HOME/.config/lxterminal"
     "$HOME/.config/Mousepad"
+    "$HOME/.config/ristretto"
     "$HOME/.config/rofi"
     "$HOME/.config/wallpaper"
     "$HOME/.config/xfce4"
